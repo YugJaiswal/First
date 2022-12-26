@@ -48,4 +48,4 @@ public class tanishq {
         System.out.println(digit);
     }*/
 
-}
+
